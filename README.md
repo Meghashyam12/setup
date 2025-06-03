@@ -1,5 +1,5 @@
 # Setup
 
 ```bash
-curl https://raw.githubusercontent.com/asmamulla786/setup/main/setup.sh | sh
+curl https://raw.githubusercontent.com/meghashyam12/setup/main/setup.sh | sh
 ```
