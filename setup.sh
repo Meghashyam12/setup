@@ -12,17 +12,15 @@ source ~/.zshrc
 source ~/.zprofile
 
 # Bundle Install
-curl https://raw.githubusercontent.com/asmamulla786/setup/main/Brewfile > Brewfile
+curl https://raw.githubusercontent.com/meghashyam12/setup/main/Brewfile > Brewfile
 brew bundle install
 
 
-
 # setup github username and email
-git config --global --add user.email "183721570+asmamulla786@users.noreply.github.com"
-git config --global --add user.name "Asma"
+git config --global --add user.email "86647274+Meghashyam12@users.noreply.github.com"
+git config --global --add user.name "meghashyam12"
 
 
 # Setup zsh syntax hightlighting
 echo 'source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh' >> ~/.zshrc
 echo 'export ZSH_HIGHLIGHT_HIGHLIGHTERS_DIR=/opt/homebrew/share/zsh-syntax-highlighting/highlighters' >> ~/.zshrc
-
